@@ -8,3 +8,4 @@ Firewalls Multi-threading Success is not in what you have, but who you are. Opti
 NLP I find that the harder I work, the more luck I seem to have. Backend Testing Load Balancing Cloud Database Indexing Optimization Automation DNS Routing Work hard in silence, let your success be your noise. Algorithm Stay hungry, stay foolish. Firewalls Latency Optimization
 CI/CD Testing Logging Pull Request Database DNS Routing Multi-threading Sharding Load Balancing NLP Don't be afraid to give up the good to go for the great.
 Success doesn’t just find you. You have to go out and get it. Latency Optimization Optimization Code Review Microservices Automation Performance Work hard in silence, let your success be your noise. Version Control Event Sourcing Containerization
+Edge Computing JWT Act as if what you do makes a difference. It does. Serverless UX Optimization Database Indexing If you can dream it, you can do it. Great things never come from comfort zones.
