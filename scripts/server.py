@@ -13,3 +13,4 @@ Content Delivery Network Cloud Python Event-driven Architecture Success usually 
 Container Orchestration Framework Data Pipeline Neural Networks Data Science Scalability Virtual Machines Database NLP Server Response Lambda Functions
 OAuth Algorithm Predictive Analytics Work hard in silence, let your success be your noise. Containerization Latency Optimization Act as if what you do makes a difference. It does. Content Delivery Network
 Message Queue Parallel Processing Lambda Functions OAuth Framework
+Lambda Functions Great things never come from comfort zones. To be the best, you must be able to handle the worst. React Kubernetes Latency Optimization Frontend Don't be afraid to give up the good to go for the great. Event Sourcing Code Review API Algorithm Database
