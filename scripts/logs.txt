@@ -13,3 +13,4 @@ Load Balancing Serverless Work hard in silence, let your success be your noise. 
 Dream big and dare to fail. Parallel Processing Framework Testing Logging Load Testing Container Orchestration Stay hungry, stay foolish. Cache Invalidation Success is not in what you have, but who you are.
 Algorithm Firewalls Cache Invalidation Database Automation Big Data Cloud Lambda Functions Success is how high you bounce when you hit bottom. Kubernetes Microservices Difficult roads often lead to beautiful destinations. Load Testing Replica Set
 Load Balancing The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Docker Cloud
+Deployment Optimization Scalability Pull Request React Frontend Cloud Functions NLP Blockchain Machine Learning
