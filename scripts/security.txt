@@ -13,3 +13,4 @@ DNS Routing Scalability Kubernetes Agile Testing Opportunities don't happen. You
 Load Testing Virtual Machines Server Response Algorithm Edge Computing
 Testing Agile RabbitMQ Optimization Multi-threading Cloud Containerization Firewalls React
 Load Balancing RabbitMQ Edge Computing The only way to do great work is to love what you do. Multi-threading Firewalls Sharding Database Indexing NLP Container Orchestration
+Database Indexing Do what you love and the money will follow. Parallel Processing Dream big and dare to fail. JWT Scalability Big Data Security Agile Kubernetes Deployment Happiness is not something ready made. It comes from your own actions. Load Balancing

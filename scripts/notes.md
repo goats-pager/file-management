@@ -9,3 +9,4 @@ Firewalls Innovation distinguishes between a leader and a follower. Latency Opti
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Containerization Microservices I find that the harder I work, the more luck I seem to have. Data Science Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. API
 Simplicity is the ultimate sophistication. A/B Testing The only way to do great work is to love what you do. Stay hungry, stay foolish. React Backend
 Great things never come from comfort zones. IoT JavaScript Data Pipeline React API Gateway Event-driven Architecture Testing Load Balancing Performance Optimization
+Parallel Processing Code Review Sharding OAuth Distributed Systems Security CI/CD Agile Scalability API Gateway
