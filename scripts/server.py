@@ -12,3 +12,4 @@ Logging Content Delivery Network The only way to do great work is to love what y
 Content Delivery Network Cloud Python Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. OAuth Backend NLP Blockchain Framework Containerization Opportunities don't happen. You create them. Artificial Intelligence API Gateway
 Container Orchestration Framework Data Pipeline Neural Networks Data Science Scalability Virtual Machines Database NLP Server Response Lambda Functions
 OAuth Algorithm Predictive Analytics Work hard in silence, let your success be your noise. Containerization Latency Optimization Act as if what you do makes a difference. It does. Content Delivery Network
+Message Queue Parallel Processing Lambda Functions OAuth Framework
