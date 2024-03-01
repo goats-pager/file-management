@@ -7,3 +7,4 @@ DNS Routing Distributed Systems Automation Testing Stay hungry, stay foolish. Lo
 Parallel Processing Event-driven Architecture Virtual Machines Lambda Functions Sharding Logging Event Sourcing Big Data Success usually comes to those who are too busy to be looking for it. A/B Testing React GraphQL
 Agile Kubernetes Python Multi-threading Database Indexing Version Control
 Server Response Multi-threading DNS Routing Cache Invalidation Microservices
+OAuth Data Science Scalability Logging Testing Kubernetes Load Balancing Content Delivery Network JavaScript Dream big and dare to fail.
