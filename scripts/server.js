@@ -11,3 +11,4 @@ UX Optimization The only way to do great work is to love what you do. Container 
 Deployment Neural Networks Agile Opportunities don't happen. You create them. Python Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Testing Containerization Framework Content Delivery Network Sharding Database Indexing
 To be the best, you must be able to handle the worst. Replica Set JWT Containerization Database Neural Networks Microservices CI/CD Virtual Machines Cloud Docker Stay hungry, stay foolish. Great things never come from comfort zones. Data Pipeline
 RabbitMQ Database Data Pipeline Event-driven Architecture Serverless Frontend Pull Request Firewalls
+JavaScript Container Orchestration Kafka WebSockets Testing Event-driven Architecture If you can dream it, you can do it. CI/CD Act as if what you do makes a difference. It does. Cache Invalidation Data Science Machine Learning
