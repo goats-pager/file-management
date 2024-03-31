@@ -12,3 +12,4 @@ UX Optimization Firewalls API Gateway Kafka Pull Request Multi-threading Predict
 DNS Routing Scalability Kubernetes Agile Testing Opportunities don't happen. You create them. OAuth Optimization Message Queue Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
 Load Testing Virtual Machines Server Response Algorithm Edge Computing
 Testing Agile RabbitMQ Optimization Multi-threading Cloud Containerization Firewalls React
+Load Balancing RabbitMQ Edge Computing The only way to do great work is to love what you do. Multi-threading Firewalls Sharding Database Indexing NLP Container Orchestration
