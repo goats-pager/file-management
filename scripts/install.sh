@@ -6,3 +6,4 @@ Big Data Simplicity is the ultimate sophistication. Algorithm API Gateway Diffic
 DNS Routing Distributed Systems Automation Testing Stay hungry, stay foolish. Load Testing Do what you love and the money will follow. Event-driven Architecture Agile
 Parallel Processing Event-driven Architecture Virtual Machines Lambda Functions Sharding Logging Event Sourcing Big Data Success usually comes to those who are too busy to be looking for it. A/B Testing React GraphQL
 Agile Kubernetes Python Multi-threading Database Indexing Version Control
+Server Response Multi-threading DNS Routing Cache Invalidation Microservices
