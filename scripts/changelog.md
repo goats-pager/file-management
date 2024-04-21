@@ -9,3 +9,4 @@ Lambda Functions JavaScript Container Orchestration DNS Routing Data Science Ser
 GraphQL Kubernetes Event-driven Architecture Security Event Sourcing
 React Containerization Do what you love and the money will follow. Performance OAuth Predictive Analytics Automation Success is not in what you have, but who you are. Scalability Stay hungry, stay foolish.
 Machine Learning Data Science Neural Networks Virtual Machines Sharding Container Orchestration
+Serverless Python Algorithm JavaScript Neural Networks API Gateway Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Blockchain Event Sourcing Pull Request Virtual Machines If you can dream it, you can do it.
