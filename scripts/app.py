@@ -9,3 +9,4 @@ Dream big and dare to fail. Don't be afraid to give up the good to go for the gr
 Stay hungry, stay foolish. Containerization API DevOps Work hard in silence, let your success be your noise. Lambda Functions
 If you can dream it, you can do it. Automation Cache Invalidation Pull Request IoT UX Optimization Optimization API Gateway Lambda Functions CI/CD Quantum Computing Data Science
 Deployment Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Scalability Cloud Functions Frontend Replica Set Lambda Functions Virtual Machines Work hard in silence, let your success be your noise. DNS Routing
+Don't be afraid to give up the good to go for the great. Microservices Load Testing Parallel Processing OAuth React Testing Virtual Machines DNS Routing Kubernetes Zero Downtime Deployment Performance Scalability Cache Invalidation Data Pipeline

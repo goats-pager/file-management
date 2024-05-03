@@ -7,3 +7,4 @@ Do what you love and the money will follow. Dream big and dare to fail. Load Bal
 Virtual Machines Performance Artificial Intelligence Parallel Processing Machine Learning Event-driven Architecture Load Balancing Great things never come from comfort zones. Database Indexing NLP Happiness is not something ready made. It comes from your own actions. Pull Request Multi-threading JavaScript
 Security Python CI/CD Opportunities don't happen. You create them. Neural Networks Parallel Processing Blockchain Load Testing Kafka Frontend Load Balancing
 Testing React Python Deployment Optimization
+WebSockets GraphQL Data Science Agile Cloud Functions RabbitMQ Lambda Functions
