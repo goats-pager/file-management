@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Multi-threading Blockchain
 Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Testing Opportunities don't happen. You create them. DNS Routing Edge Computing Lambda Functions Artificial Intelligence Event Sourcing
 Stay hungry, stay foolish. Containerization API DevOps Work hard in silence, let your success be your noise. Lambda Functions
 If you can dream it, you can do it. Automation Cache Invalidation Pull Request IoT UX Optimization Optimization API Gateway Lambda Functions CI/CD Quantum Computing Data Science
+Deployment Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Scalability Cloud Functions Frontend Replica Set Lambda Functions Virtual Machines Work hard in silence, let your success be your noise. DNS Routing

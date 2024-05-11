@@ -8,3 +8,4 @@ Optimization Data Pipeline Act as if what you do makes a difference. It does. Mu
 Testing To be the best, you must be able to handle the worst. Backend Database Server Response Firewalls Container Orchestration Python Sharding
 GraphQL A/B Testing Logging React Blockchain Kubernetes Algorithm Zero Downtime Deployment
 Event-driven Architecture Deployment Stay hungry, stay foolish. Cache Invalidation Parallel Processing Server Response Multi-threading Neural Networks
+Load Balancing To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Cloud Functions JavaScript Cloud OAuth The only way to do great work is to love what you do. Firewalls Great things never come from comfort zones. Stay hungry, stay foolish. Kafka
