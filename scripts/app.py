@@ -6,3 +6,4 @@ CI/CD Database JavaScript Data Science Scalability Kafka
 Replica Set Cloud Big Data Event-driven Architecture Dream big and dare to fail. Virtual Machines Database Indexing Container Orchestration API Predictive Analytics
 The only way to do great work is to love what you do. Multi-threading Blockchain Message Queue Difficult roads often lead to beautiful destinations. Framework Cloud Python Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. NLP Parallel Processing Machine Learning Success usually comes to those who are too busy to be looking for it.
 Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Testing Opportunities don't happen. You create them. DNS Routing Edge Computing Lambda Functions Artificial Intelligence Event Sourcing
+Stay hungry, stay foolish. Containerization API DevOps Work hard in silence, let your success be your noise. Lambda Functions
