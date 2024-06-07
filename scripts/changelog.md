@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Performance I find that th
 Lambda Functions JavaScript Container Orchestration DNS Routing Data Science Server Response Don't be afraid to give up the good to go for the great. CI/CD Cloud
 GraphQL Kubernetes Event-driven Architecture Security Event Sourcing
 React Containerization Do what you love and the money will follow. Performance OAuth Predictive Analytics Automation Success is not in what you have, but who you are. Scalability Stay hungry, stay foolish.
+Machine Learning Data Science Neural Networks Virtual Machines Sharding Container Orchestration
