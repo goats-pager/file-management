@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Version Control Kaf
 Zero Downtime Deployment Replica Set Firewalls API Backend Predictive Analytics Opportunities don't happen. You create them. UX Optimization Docker Innovation distinguishes between a leader and a follower. Multi-threading
 Logging Performance API Gateway Server Response WebSockets Framework Backend
 Scalability Backend Don't be afraid to give up the good to go for the great. Firewalls Simplicity is the ultimate sophistication. CI/CD API React The only way to do great work is to love what you do. Virtual Machines Great things never come from comfort zones. Automation Innovation distinguishes between a leader and a follower.
+Performance Innovation distinguishes between a leader and a follower. Database Indexing A/B Testing Framework Predictive Analytics The only way to do great work is to love what you do.
