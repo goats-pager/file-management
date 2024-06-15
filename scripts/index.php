@@ -5,3 +5,4 @@ Predictive Analytics React Don't be afraid to give up the good to go for the gre
 Latency Optimization Stay hungry, stay foolish. UX Optimization Data Science Big Data Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Optimization WebSockets Multi-threading Act as if what you do makes a difference. It does.
 A/B Testing WebSockets Edge Computing API Gateway Serverless Quantum Computing Container Orchestration Predictive Analytics OAuth Framework Kafka UX Optimization RabbitMQ
 Scalability Message Queue Kafka Multi-threading Version Control Database Indexing Framework
+DNS Routing Microservices Performance Docker Parallel Processing Kafka Success is how high you bounce when you hit bottom. Distributed Systems
