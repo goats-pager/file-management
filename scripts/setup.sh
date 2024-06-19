@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. UX Optimization Blockchain I
 Multi-threading NLP GraphQL OAuth Database Virtual Machines Kafka
 Stay hungry, stay foolish. Parallel Processing Logging NLP Frontend The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Data Pipeline
 I find that the harder I work, the more luck I seem to have. Edge Computing Multi-threading The only way to do great work is to love what you do. Frontend
+Innovation distinguishes between a leader and a follower. Deployment Firewalls Edge Computing WebSockets Happiness is not something ready made. It comes from your own actions. Kubernetes Artificial Intelligence Python Blockchain Security Algorithm Zero Downtime Deployment Act as if what you do makes a difference. It does. Automation
