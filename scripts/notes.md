@@ -5,3 +5,4 @@ Optimization Logging Do what you love and the money will follow. Backend Contain
 Server Response Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. A/B Testing GraphQL Virtual Machines If you can dream it, you can do it. Event Sourcing Lambda Functions Container Orchestration
 Backend Frontend Latency Optimization Success is not in what you have, but who you are. IoT Great things never come from comfort zones. Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. Event-driven Architecture UX Optimization Sharding Zero Downtime Deployment Docker
+Firewalls Innovation distinguishes between a leader and a follower. Latency Optimization Neural Networks Success is how high you bounce when you hit bottom. Backend Sharding CI/CD Simplicity is the ultimate sophistication. Parallel Processing A/B Testing Load Testing
