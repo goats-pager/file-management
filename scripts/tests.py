@@ -4,3 +4,4 @@ Content Delivery Network Testing IoT DevOps Opportunities don't happen. You crea
 GraphQL Kafka Framework Event Sourcing Blockchain
 RabbitMQ Lambda Functions Optimization Server Response I find that the harder I work, the more luck I seem to have.
 Quantum Computing Predictive Analytics Server Response Cloud DevOps Great things never come from comfort zones. Success is not in what you have, but who you are. Data Pipeline Stay hungry, stay foolish. Big Data React Serverless Difficult roads often lead to beautiful destinations. Logging
+Agile Multi-threading Replica Set If you can dream it, you can do it. Algorithm Don't be afraid to give up the good to go for the great. Optimization Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Event-driven Architecture Load Testing Blockchain Stay hungry, stay foolish. Performance DevOps
