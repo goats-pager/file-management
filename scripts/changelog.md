@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Firewalls NLP Block
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Backend Dream big and dare to fail. Cloud
 To be the best, you must be able to handle the worst. Performance I find that the harder I work, the more luck I seem to have. Scalability Success is how high you bounce when you hit bottom. React Security Containerization WebSockets Quantum Computing Do what you love and the money will follow. Load Testing DevOps Virtual Machines Happiness is not something ready made. It comes from your own actions.
 Lambda Functions JavaScript Container Orchestration DNS Routing Data Science Server Response Don't be afraid to give up the good to go for the great. CI/CD Cloud
+GraphQL Kubernetes Event-driven Architecture Security Event Sourcing
