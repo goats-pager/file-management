@@ -6,3 +6,4 @@ Great things never come from comfort zones. Automation Content Delivery Network 
 Success is how high you bounce when you hit bottom. UX Optimization Blockchain If you can dream it, you can do it. Kafka
 Multi-threading NLP GraphQL OAuth Database Virtual Machines Kafka
 Stay hungry, stay foolish. Parallel Processing Logging NLP Frontend The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Data Pipeline
+I find that the harder I work, the more luck I seem to have. Edge Computing Multi-threading The only way to do great work is to love what you do. Frontend
