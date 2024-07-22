@@ -1,2 +1,3 @@
 Dream big and dare to fail. Scalability Pull Request React Container Orchestration Serverless Difficult roads often lead to beautiful destinations. Monitoring Optimization DNS Routing Distributed Systems Load Balancing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment
 Latency Optimization Do what you love and the money will follow. WebSockets Sharding Multi-threading Artificial Intelligence Machine Learning Virtual Machines Performance Monitoring Kafka Edge Computing Containerization API Blockchain
+Do what you love and the money will follow. Zero Downtime Deployment Sharding DevOps Performance GraphQL
