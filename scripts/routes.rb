@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Docker Ne
 Deployment React If you can dream it, you can do it. Event Sourcing Microservices Innovation distinguishes between a leader and a follower.
 API Data Science Success usually comes to those who are too busy to be looking for it. Edge Computing Quantum Computing Cloud Neural Networks Kubernetes Virtual Machines Content Delivery Network Cloud Functions Code Review
 IoT NLP Do what you love and the money will follow. Artificial Intelligence Machine Learning
+Testing Difficult roads often lead to beautiful destinations. Parallel Processing Quantum Computing Opportunities don't happen. You create them. Dream big and dare to fail. Agile Machine Learning Success doesn’t just find you. You have to go out and get it. Big Data API Multi-threading
