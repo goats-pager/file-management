@@ -3,3 +3,4 @@ Do what you love and the money will follow. Success doesn’t just find you. You h
 Server Response Difficult roads often lead to beautiful destinations. Distributed Systems Algorithm CI/CD
 Agile Cloud Functions API Quantum Computing If you can dream it, you can do it. Multi-threading Do what you love and the money will follow. Cache Invalidation Simplicity is the ultimate sophistication. Docker Success doesn’t just find you. You have to go out and get it. React
 If you can dream it, you can do it. Microservices NLP CI/CD A/B Testing Logging Cache Invalidation Do what you love and the money will follow.
+Optimization Backend Lambda Functions API Gateway OAuth JWT Act as if what you do makes a difference. It does. Virtual Machines Python
