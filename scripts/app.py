@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. Machine L
 Kafka CI/CD Automation Replica Set UX Optimization Kubernetes Event-driven Architecture I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Frontend Database
 Server Response JavaScript Scalability Container Orchestration Blockchain UX Optimization Opportunities don't happen. You create them. React Data Pipeline Lambda Functions Work hard in silence, let your success be your noise. Pull Request Testing The only way to do great work is to love what you do.
 Replica Set Edge Computing Algorithm Agile Neural Networks Code Review
+CI/CD Database JavaScript Data Science Scalability Kafka
