@@ -4,3 +4,4 @@ Do what you love and the money will follow. Blockchain React Multi-threading DNS
 Automation OAuth Serverless Agile Neural Networks Don't be afraid to give up the good to go for the great. Kubernetes
 Great things never come from comfort zones. Automation Content Delivery Network Big Data Parallel Processing OAuth Scalability DevOps Security Performance Success usually comes to those who are too busy to be looking for it. RabbitMQ
 Success is how high you bounce when you hit bottom. UX Optimization Blockchain If you can dream it, you can do it. Kafka
+Multi-threading NLP GraphQL OAuth Database Virtual Machines Kafka
