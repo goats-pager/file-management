@@ -3,3 +3,4 @@ Deployment I find that the harder I work, the more luck I seem to have. Success 
 Innovation distinguishes between a leader and a follower. Cloud DevOps Latency Optimization Code Review Container Orchestration Cache Invalidation RabbitMQ Machine Learning Success is not in what you have, but who you are. Algorithm Firewalls Stay hungry, stay foolish. JWT
 Optimization OAuth Serverless To be the best, you must be able to handle the worst. Database Indexing Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Data Science Message Queue
 I find that the harder I work, the more luck I seem to have. Firewalls NLP Blockchain Lambda Functions Success doesn’t just find you. You have to go out and get it. Deployment OAuth Latency Optimization
+Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Backend Dream big and dare to fail. Cloud
