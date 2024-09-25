@@ -3,3 +3,4 @@ Optimization Great things never come from comfort zones. React To be the best, y
 CI/CD Algorithm Edge Computing Scalability OAuth Monitoring Content Delivery Network Success doesn’t just find you. You have to go out and get it. Kafka Zero Downtime Deployment Load Testing
 Happiness is not something ready made. It comes from your own actions. Docker Neural Networks Distributed Systems Data Science RabbitMQ Success is how high you bounce when you hit bottom. Cache Invalidation Microservices Success doesn’t just find you. You have to go out and get it.
 Deployment React If you can dream it, you can do it. Event Sourcing Microservices Innovation distinguishes between a leader and a follower.
+API Data Science Success usually comes to those who are too busy to be looking for it. Edge Computing Quantum Computing Cloud Neural Networks Kubernetes Virtual Machines Content Delivery Network Cloud Functions Code Review
