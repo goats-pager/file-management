@@ -1,3 +1,4 @@
 Backend Distributed Systems Serverless Code Review Kubernetes Frontend Containerization Success is how high you bounce when you hit bottom. Docker UX Optimization Sharding Stay hungry, stay foolish. Success is not in what you have, but who you are.
 Deployment I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Blockchain Simplicity is the ultimate sophistication. If you can dream it, you can do it. API
 Innovation distinguishes between a leader and a follower. Cloud DevOps Latency Optimization Code Review Container Orchestration Cache Invalidation RabbitMQ Machine Learning Success is not in what you have, but who you are. Algorithm Firewalls Stay hungry, stay foolish. JWT
+Optimization OAuth Serverless To be the best, you must be able to handle the worst. Database Indexing Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Data Science Message Queue
