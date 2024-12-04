@@ -1,3 +1,4 @@
 DNS Routing Automation Artificial Intelligence Great things never come from comfort zones. The only way to do great work is to love what you do. Machine Learning DevOps To be the best, you must be able to handle the worst. API Gateway Success doesn’t just find you. You have to go out and get it. Cloud Logging
 Success is not in what you have, but who you are. Deployment Neural Networks Data Pipeline Firewalls IoT Version Control Agile Edge Computing Blockchain Framework
 Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Container Orchestration React CI/CD WebSockets Replica Set Innovation distinguishes between a leader and a follower. Docker Parallel Processing Predictive Analytics Monitoring
+Event-driven Architecture Data Pipeline A/B Testing Parallel Processing CI/CD Sharding Cloud Functions Quantum Computing Multi-threading Replica Set
