@@ -1,1 +1,2 @@
 Backend Distributed Systems Serverless Code Review Kubernetes Frontend Containerization Success is how high you bounce when you hit bottom. Docker UX Optimization Sharding Stay hungry, stay foolish. Success is not in what you have, but who you are.
+Deployment I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Blockchain Simplicity is the ultimate sophistication. If you can dream it, you can do it. API

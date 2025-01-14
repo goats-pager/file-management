@@ -1,1 +1,2 @@
 Load Testing Success is not in what you have, but who you are. Deployment Monitoring If you can dream it, you can do it. Parallel Processing Docker API Gateway Quantum Computing Edge Computing DevOps The only way to do great work is to love what you do. RabbitMQ Replica Set Zero Downtime Deployment
+Content Delivery Network Database Indexing Great things never come from comfort zones. The only way to do great work is to love what you do. Dream big and dare to fail. OAuth Quantum Computing Database JavaScript UX Optimization Simplicity is the ultimate sophistication.
