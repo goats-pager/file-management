@@ -1,1 +1,2 @@
 Innovation distinguishes between a leader and a follower. Data Pipeline Predictive Analytics A/B Testing API CI/CD To be the best, you must be able to handle the worst. Artificial Intelligence Version Control Database Cloud WebSockets Opportunities don't happen. You create them.
+Dream big and dare to fail. Big Data UX Optimization Distributed Systems Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Opportunities don't happen. You create them. Machine Learning A/B Testing
